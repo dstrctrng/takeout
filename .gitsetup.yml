@@ -1,0 +1,5 @@
+---
+remotes:
+  primary: git@github.com:destructuring/takeout
+  secondary: git@bitbucket.org:destructuring/takeout
+  rb: https://github.com/destructuring/rb-helper
